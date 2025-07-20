@@ -64,7 +64,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, sh
 ## 📫 Contact
 
 - **GitHub:** [hungdoba](https://github.com/hungdoba)
-- **Blog:** [hungba.blog](https://hungba.blog)
+- **Blog:** [adayroi.jp](https://adayroi.jp)
 
 ---
 
